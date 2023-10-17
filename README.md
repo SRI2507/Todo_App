@@ -1,2 +1,2 @@
 # Todo_App
- add the task to note it on the app 
+ add the  daily task  to note it on the app and complete it
